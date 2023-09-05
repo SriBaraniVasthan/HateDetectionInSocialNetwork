@@ -1,0 +1,11 @@
+.main-body-bg {
+    background-color: #36454F;
+    position: absolute;
+    top : 59px;
+    bottom : 5px;
+    overflow-y: scroll;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../../resources/images/hamburger.svg) !important
+}

@@ -1,0 +1,33 @@
+
+  
+.content {
+    padding: 7rem 0; 
+}
+
+.form-block {
+    background: #fff;
+    padding: 60px;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1); 
+}
+
+.set-mid {
+    display: block !important;
+    margin: auto;
+}
+
+.arrow-position {
+    top: 68px;
+    left: 4%;
+}
+
+.institution-modal,
+.institution-signup {
+    background-color: #36454F;
+}
+
+.inst-container {
+    width: 100%;
+    height: 100%;
+    background: grey
+}

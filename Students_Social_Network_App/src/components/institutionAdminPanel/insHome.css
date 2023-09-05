@@ -1,0 +1,17 @@
+.side-nav {
+    min-height: calc(100vh - 60px);
+}
+
+.dash-board {
+    min-height: 70vh;
+    max-height: 80vh;
+    overflow: overlay;
+}
+
+.dep-btn {
+    margin-left: 5px;
+}
+
+.share-color {
+    color: black;
+}

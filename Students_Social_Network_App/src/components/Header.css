@@ -1,0 +1,15 @@
+.bg-header {
+    background-color: black;
+}
+
+.nav-item .nav-link.active {
+    color: white !important
+}
+
+.nav-item .nav-link {
+    color: grey !important
+}
+
+.navbar-brand {
+    color: white !important;
+}

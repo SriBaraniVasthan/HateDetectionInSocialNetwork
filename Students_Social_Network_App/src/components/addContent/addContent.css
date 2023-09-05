@@ -1,0 +1,50 @@
+
+.publish {
+    border-radius: 0 0 6px 0px !important;
+    background-color: grey !important;
+    color: #fff !important;
+    cursor: pointer;
+  }
+
+  .publish:hover {
+    border-radius: 0 0 6px 0px !important;
+    background-color: lightgrey !important;
+    color: black !important;
+    cursor: pointer;
+  }
+
+
+.share-input:focus {
+  outline: 0 !important;
+  box-shadow: none;
+}
+
+.share-input {
+  outline: 0 !important;
+  box-shadow: none;
+  display: block;
+  overflow: hidden;
+  resize: none;
+  width: 100%;
+  min-height: 80px;
+}
+
+
+.photo-text {
+    margin-left: 5px;
+    cursor: pointer; 
+}
+
+
+.cross-mark {
+  margin-left: 15px;
+  cursor: pointer; 
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.file-name {
+  color: grey;
+}

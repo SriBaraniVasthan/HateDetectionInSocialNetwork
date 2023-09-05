@@ -6,7 +6,7 @@ const Constant = {
     instituteSideMenu: ["Departments", "Students", "Staffs"],
     userTypes: { ADMIN: "ADMIN", USER: "USER", STAFF: "STAFF", RECRUITER: "RECRUITER" },
     // toxicity_check_url: Referencing the API use from https://developers.perspectiveapi.com/s/ 
-    toxicity_check_url: "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key=AIzaSyAmVruSbhjMhKapx4d83cq0oFmDhYhlAmY",
+    toxicity_check_url: "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key=",
     pass: "PASS",
     fail: "FAIL",
     score: "SCORE",

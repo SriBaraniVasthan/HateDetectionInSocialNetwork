@@ -4,7 +4,7 @@
 
 **Content is monitored for every key stroke, retrieves results from Perspective API. API integration is validated**
 ![image](https://github.com/SriBaraniVasthan/HateDetectionInSocialNetwork/assets/63550126/6a550600-fce8-4284-adb3-1b55f0125e63)
-
+![image](https://github.com/SriBaraniVasthan/HateDetectionInSocialNetwork/assets/63550126/74f5824b-4c21-4f0e-b63a-94d9d2d9e732)
 
 **All communication channels between the frontend, backend and the database are encrypted and private.**
 ![image](https://github.com/SriBaraniVasthan/HateDetectionInSocialNetwork/assets/63550126/8ef217d2-0025-4da1-9183-836eaa90ab09)

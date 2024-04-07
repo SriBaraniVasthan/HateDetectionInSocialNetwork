@@ -2,7 +2,7 @@
 **A snippet describing the inappropriate automatic text detection of content posted in the application.**
 ![image](https://github.com/SriBaraniVasthan/HateDetectionInSocialNetwork/assets/63550126/f6da9d1f-3c3e-472f-9d58-baa5046ebf84)
 
-**Content is monitored for every key stroke, retrieves results from Google API. API integration is validated**
+**Content is monitored for every key stroke, retrieves results from Perspective API. API integration is validated**
 ![image](https://github.com/SriBaraniVasthan/HateDetectionInSocialNetwork/assets/63550126/6a550600-fce8-4284-adb3-1b55f0125e63)
 
 
